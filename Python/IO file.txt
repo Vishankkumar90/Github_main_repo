@@ -1,1 +1,0 @@
-yes the file is accesed in file IO part yes
